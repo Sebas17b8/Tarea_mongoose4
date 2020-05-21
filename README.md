@@ -1,11 +1,11 @@
 # Tarea_mongoose4
 
-## Se creo el codigo en nodejs para interactura con la base de MongoDB, para lo cual se crearon los las sentencia para:
-
+## Se creo el codigo en nodejs para interactura con la base de MongoDB. 
+###### los siguientes codigos ahrian lo siguiente
 -busqueda.
--modificacion
--añadir registros
+-modificacion.
+-añadir registros.
 
 
-###Sebastian Ayala
+######Sebastian Ayala
 
